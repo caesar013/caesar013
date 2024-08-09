@@ -5,7 +5,7 @@
 
 <h3 align="center">Informatics Engineering Student at State Polytechnic of Malang | Junior Web Developer | Laravel</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=caesar013&label=Profile%20views&color=0e75b6&style=flat" alt="caesar013" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=caesar013&label=Profile%20views&color=0e75b6&style=flat" alt="caesar013" /></p>
 
 - 🔭 I’m currently working on **SIMBIO**
 
