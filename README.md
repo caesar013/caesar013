@@ -1,9 +1,8 @@
 <!-- Typing SVG from beloved https://github.com/denvercoder1/readme-typing-svg -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Caesar" alt="Typing SVG" /></a>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+👋+I'm+Caesar" alt="Typing SVG" /></a></h1>
 <br>
 
-<h1 align="center">Hi 👋, I'm fikril_Ha</h1>
 <h3 align="center">Informatics Engineering Student at State Polytechnic of Malang | Junior Web Developer | Laravel</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caesar013&label=Profile%20views&color=0e75b6&style=flat" alt="caesar013" /> </p>
