@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **AdonisJS, PostgreSQL, and Flutter**
 
-- 💬 Ask me about **Laravel**
-
 - 📫 How to reach me **fikrilha099@gmail.com**
 
 - ⚡ Fun fact **Making progress is my dopamine.**
