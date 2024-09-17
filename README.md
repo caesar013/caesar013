@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **SIMBIO**
 
-- 🌱 I’m currently learning **AdonisJS, PostgreSQL, and Flutter**
+- 🌱 I’m currently learning **AdonisJS and PostgreSQL**
 
 - 📫 How to reach me **fikrilha099@gmail.com**
 
