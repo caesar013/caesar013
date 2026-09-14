@@ -7,9 +7,9 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=caesar013&label=Profile%20views&color=0e75b6&style=flat" alt="caesar013" /></p>
 
-- 🔭 I’m currently working on -
+- 🔭 I’m currently working on myself.
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **fikrilha099@gmail.com**
 
